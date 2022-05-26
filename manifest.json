@@ -2,11 +2,6 @@
     "files": {
         "README.md": "eee9f89ee371a99ad642f158afcdaef164f22877a92200dca87e0cf6c9d3d007",
         "data/KYGAS-2800.json": "e5ee393fb249b50941b02241bf682a56ad60acc2a2659f67e7b4056701cd3f1d",
-        "data/Usagi-2800.json": "4a2cc19cfe309babfe278c673cf884d2cea39391ed031c18dc376caa2eb75abb",
-        "data/Valky Fischer-2800.json": "bb1db5adc9a98f50963fd1f5809742344990ec054052909b0cdfb93dac745135",
-        "data/Valky-2800.json": "7ffd429ffe06f7351c3c73fb4db77002135c8e6bcf3ab176fad39da8ad32099a",
-        "data/ggg-2800.json": "3c6348c4f9e9a29d53b3fe676958c51e5f5b75ab9386bd73b8ccc2d545499d90",
-        "data/twattwat-2800.json": "2807b92f04cc704a2e04f19acfcf8afb025809509f10579d5dae62c982e7a19d",
         "index.js": "426371ffb2cc6658dcb3ab358ecfb40ba493b0c5621558c132ed4851f3655dad",
         "module.config.json": "c0a16dfca2dc00eb2f4c5670a98fcc163fd4f85c34b04fe825e6c3e79de88ca1",
         "module.json": "9d00120e9770994a25e7b37b9c0ff32e8eb9359094cda6ce72729861f1f7c5b1"
